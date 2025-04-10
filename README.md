@@ -1,10 +1,6 @@
-https://github.com/Irebami-523/IREBAMI.git 
+Finance
 
-<!-- ![](https://github.com/Irebami-523/IREBAMI/actions/workflows/0-start-exercise.yml/badge.svg) -->
-![](https://github.com/Irebami-523/IREBAMI/actions/workflows/1-create-a-branch.yml/badge.svg)
-![](https://github.com/Irebami-523/IREBAMI/actions/workflows/2-commit-a-file.yml/badge.svg)
-![](https://github.com/Irebami-523/IREBAMI/actions/workflows/3-open-a-pull-request.yml/badge.svg)
-![](https://github.com/Irebami-523/IREBAMI/actions/workflows/4-merge-your-pull-request.yml/badge.svg)
+Finance is an investment platform that allows users to invest and gain 50% of their investments within 48 hrs.
 
 _Investment Platform_
 
